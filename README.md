@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aandriano
-- 👀 I’m interested in Web Development, PHP Symfony, Blockchain and Smart Contracts development, Web 3.0
-- 🌱 I’m currently learning Solidity and Smart Contracts development
+- 👀 I’m interested in Web Development and DevOps (PHP Symfony, Docker, Kubernetes, Ansible etc.), Python, Blockchain and Smart Contracts development, Web 3.0
+- 🌱 I’m currently improving my skills on web environment tools such as Ansible, Traefik, Prometheus, Grafana
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
