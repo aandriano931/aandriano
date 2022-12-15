@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aandrianomanana
+- 👋 Hi, I’m @aandriano
 - 👀 I’m interested in Web Development, PHP Symfony, Blockchain and Smart Contracts development, Web 3.0
 - 🌱 I’m currently learning Solidity and Smart Contracts development
 - 💞️ I’m looking to collaborate on ...
